@@ -1,1 +1,14 @@
-[]
+{
+  "updated": "2026-04-23T23:08:46.740Z",
+  "normal": [],
+  "fast": [
+    {
+      "initials": "DAD",
+      "score": 2888,
+      "seed": 5350,
+      "level": 3,
+      "country": "GB",
+      "submittedAt": "2026-04-23T23:08:46.485Z"
+    }
+  ]
+}
