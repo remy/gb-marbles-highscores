@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-23T23:08:46.740Z",
+  "updated": "2026-05-11T22:29:59.231Z",
   "normal": [],
   "fast": [
+    {
+      "initials": "REM",
+      "score": 4726,
+      "seed": 4216,
+      "level": 6,
+      "country": "GB",
+      "submittedAt": "2026-05-11T22:29:57.872Z"
+    },
     {
       "initials": "DAD",
       "score": 2888,
